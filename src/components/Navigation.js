@@ -17,23 +17,23 @@ const Navigation = () => {
             <div className="navigation">
                 <ul>
                     <li>
-                        <NavLink exact to="/" activeClassName="navActive">
-                            <HomeSharpIcon/> <span> Accueil </span>
+                        <NavLink exact to="/" ClassName="navActive">
+                           <i> <HomeSharpIcon/> </i> <span> Accueil </span>
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink exact to="/competences" activeClassName="navActive">
-                            <PsychologySharp/> <span> Compétences </span>
+                        <NavLink exact to="/competences" ClassName="navActive">
+                            <i> <PsychologySharp/> </i> <span> Compétences </span>
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink exact to="/portfolio" activeClassName="navActive">
-                            <ImportContactsSharpIcon/> <span> Portfolio </span>
+                        <NavLink exact to="/portfolio" ClassName="navActive">
+                           <i> <ImportContactsSharpIcon/> </i> <span> Portfolio </span>
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink exact to="/contact" activeClassName="navActive">
-                            <PermContactCalendarSharpIcon/> <span> Contacts </span>
+                        <NavLink exact to="/contact" ClassName="navActive">
+                            <i> <PermContactCalendarSharpIcon/> </i> <span> Contacts </span>
                         </NavLink>
                     </li>
                 </ul>
