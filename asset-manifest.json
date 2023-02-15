@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-cv/static/css/main.571779eb.css",
+    "main.js": "/react-cv/static/js/main.e613e0da.js",
+    "static/js/787.11baedba.chunk.js": "/react-cv/static/js/787.11baedba.chunk.js",
+    "static/media/dbz.jpg": "/react-cv/static/media/dbz.ac1ef0f3e9ab4780d237.jpg",
+    "index.html": "/react-cv/index.html",
+    "main.571779eb.css.map": "/react-cv/static/css/main.571779eb.css.map",
+    "main.e613e0da.js.map": "/react-cv/static/js/main.e613e0da.js.map",
+    "787.11baedba.chunk.js.map": "/react-cv/static/js/787.11baedba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.571779eb.css",
+    "static/js/main.e613e0da.js"
+  ]
+}
