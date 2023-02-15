@@ -3,9 +3,9 @@ import Navigation from '../components/Navigation';
 
 const Portfolio = () => {
     return (
-        <div>
+        <div className='portfolio'>
             <Navigation/>
-            ceci est le portfolio !
+                             Prochaine Release -- 0.0.2           
         </div>
     );
 };
