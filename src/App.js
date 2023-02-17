@@ -12,12 +12,12 @@ const App = () => {
     <>
       <BrowserRouter>
         <Routes>   
-          <Route exact path="/" element={<Home/>} />
-          <Route path="/home" element={<Home/>} />
-          <Route path="/competences" element={<Knowledges/>}/>
-          <Route path="/portfolio" element={<Portfolio/>} />
-          <Route path="/contact" element={<Contact/>} />
-          <Route path="*" element={<NotFound/>} />
+          <Route exact path="/react-cv/" element={<Home/>} />
+          <Route path="/react-cv/home" element={<Home/>} />
+          <Route path="/react-cv/competences" element={<Knowledges/>}/>
+          <Route path="/react-cv/portfolio" element={<Portfolio/>} />
+          <Route path="/react-cv/contact" element={<Contact/>} />
+          <Route path="/react-cv/*" element={<NotFound/>} />
         </Routes>
       </BrowserRouter> 
     </>

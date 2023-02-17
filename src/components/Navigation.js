@@ -17,22 +17,22 @@ const Navigation = () => {
             <div className="navigation">
                 <ul>
                     <li>
-                        <NavLink exact to="/" ClassName="navActive">
+                        <NavLink exact to="/react-cv/home" ClassName="navActive">
                            <i> <HomeSharpIcon/> </i> <span> Accueil </span>
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink exact to="/competences" ClassName="navActive">
+                        <NavLink exact to="/react-cv/competences" ClassName="navActive">
                             <i> <PsychologySharp/> </i> <span> Compétences </span>
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink exact to="/portfolio" ClassName="navActive">
+                        <NavLink exact to="/react-cv/portfolio" ClassName="navActive">
                            <i> <ImportContactsSharpIcon/> </i> <span> Portfolio </span>
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink exact to="/contact" ClassName="navActive">
+                        <NavLink exact to="/react-cv/contact" ClassName="navActive">
                             <i> <PermContactCalendarSharpIcon/> </i> <span> Contacts </span>
                         </NavLink>
                     </li>

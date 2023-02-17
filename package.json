@@ -1,6 +1,6 @@
 {
-  "name" : "react-cv", 
-  "homepage": "http://mehdimaaref7.github.io/react-cv/", 
+  "name": "react-cv",
+  "homepage": "http://mehdimaaref7.github.io/react-cv",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
